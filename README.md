@@ -55,12 +55,12 @@ ________________________________________________________________________________
 ---------------------------------------------------------------------------------------------------------------------
 
 
+## 👤 Author
 
-##👤 Author
-
-Raja Babu Jamatia
-Shoolini University – Department of CSE (AI)
-📍 Himachal Pradesh, India
-🔗 LinkedIn
+**Raja Babu Jamatia**  
+🎓 Shoolini University – Department of Computer Science & Engineering (AI)  
+📍 Himachal Pradesh, India  
+🔗 [LinkedIn Profile](https://linkedin.com/in/raja-babu-jamatia-521609288)  
+📧 meboyzrbj@gmail.com  
 
 
