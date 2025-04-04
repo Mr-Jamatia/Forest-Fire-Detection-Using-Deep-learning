@@ -38,9 +38,9 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________
 | Resource            | Used                                                              |
 |---------------------|-------------------------------------------------------------------|
-| GPU Type            | NVIDIA T4 GPU (via Google Colab)                                  |
-| Benefit             | Faster training, reduced model training time                      |
+| GPU Type            | T4 GPU (via Google Colab)                                         |      
 | Compatibility       | TensorFlow automatically detects and utilizes GPU                 |
+|                     |                                                                   |
 -------------------------------------------------------------------------------------------
 
 ## ✅ Project Highlights
@@ -53,6 +53,7 @@ ________________________________________________________________________________
 | ⚙️ GPU Configurable                 | Checks and enables GPU memory growth automatically                          |
 | 📊 Class Statistics                 | Outputs dataset distribution by class                                       |
 ---------------------------------------------------------------------------------------------------------------------
+
 
 
 ## 👤 Author
